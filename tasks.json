@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1778961373940",
+    "userId": "1778961352988",
+    "title": "Teste",
+    "description": "teste",
+    "status": "doing",
+    "dueDate": "2026-05-17",
+    "priority": "medium",
+    "completed": false,
+    "createdAt": "2026-05-16T19:56:13.940Z",
+    "updatedAt": "2026-05-16T19:59:01.165Z"
+  },
+  {
+    "id": "1779544122236",
+    "userId": "1779543960842",
+    "title": "Atividades AntiGravity",
+    "description": "Curso de programação com Google AntiGravity",
+    "status": "todo",
+    "dueDate": "2026-05-24",
+    "priority": "medium",
+    "completed": false,
+    "createdAt": "2026-05-23T13:48:42.236Z",
+    "updatedAt": "2026-05-23T13:48:52.403Z"
+  }
+]
